@@ -29,11 +29,9 @@ A real-time **Network Intrusion Detection System** built with Python, designed t
 - `suspicious_ips.txt` - List of known malicious IP addresses
 
 ## Setup Instructions
-- **Clone the Repository**:
-  ```
-  git clone <repository-url>
-  cd <repository-directory>
-  ```
+- **Download a release**:
+  - Extract the files within the RAR folder.
+
 - **Enter credentials in KV_pairs.env**:
     - `prog_mail`: the mail address from which the alerts will be sent
     - `prog_mailpwd`: the mail password or app password for `prog_mail`
