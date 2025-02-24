@@ -22,4 +22,21 @@ A real-time **Network Intrusion Detection System** built with Python, designed t
 - `smtplib` - Email alert system
 - `dotenv` - Secure environment variable management
 
-## 📂 Project Structure
+## Project Structure
+- `Network IDS.exe` - Main executable
+- `KV_pairs.env` - Environment Variables file for sensitive credentials
+- `captured_packets.pcap` - File to store captured packets (generated dynamically)
+- `suspicious_ips.txt` - List of known malicious IP addresses
+
+## Setup Instructions
+- **Clone the Repository**:
+  ```
+  git clone <repository-url>
+  cd <repository-directory>
+  ```
+  
+  ## Usage
+  - **Run the executable file**
+ 
+  ## Licence
+  This project is licensed under the MIT Licence
