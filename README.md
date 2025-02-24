@@ -35,8 +35,8 @@ A real-time **Network Intrusion Detection System** built with Python, designed t
   cd <repository-directory>
   ```
   
-  ## Usage
-  - **Run the executable file**
+## Usage
+- **Run the executable file**
  
-  ## Licence
-  This project is licensed under the MIT Licence
+## Licence
+This project is licensed under the MIT Licence
