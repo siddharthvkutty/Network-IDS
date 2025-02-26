@@ -4,6 +4,7 @@ A real-time **Network Intrusion Detection System** built with Python, designed t
 
 ## Features
 - **Packet Capture**: Monitors live network traffic and captures packets.
+- **Supports Multiple Network Interfaces**: Choose from a list of available interfaces to monitor traffic from.
 - **Real-Time Dashboard**: Visualizes packet activity, highlighting suspicious IPs and ports.
 - **Intrusion Detection Rules**:
   - Detects traffic from known malicious IPs (loaded from an external file).
